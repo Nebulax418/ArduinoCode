@@ -7,7 +7,6 @@ void setup()
 {
 
   pinMode(motorIn1,OUTPUT);  //initialize the motorIn1 pin as output 
-
   pinMode(motorIn2,OUTPUT);  //initialize the motorIn2 pin as output 
 
 }
