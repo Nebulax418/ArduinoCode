@@ -21,7 +21,7 @@ void loop() {
        counterclockwise(200);  //rotate counterclockwise
        delay(100); 
     }
-    a-=1
+    a-=1;
   }
 }
 
