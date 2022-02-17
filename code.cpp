@@ -38,7 +38,7 @@ void clockwise(int speed) {
 
 }
 
-void counterclockwise(int Speed) {
+void counterclockwise(int speed) {
 
   int half = speed / 2;
   
